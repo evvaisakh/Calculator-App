@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.screen p {
+    font-size: 6px;
+}
+
+.brand button {
+    cursor: context-menu;
+    width: 55%;
+}
