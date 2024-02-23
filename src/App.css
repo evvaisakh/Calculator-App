@@ -11,3 +11,16 @@
     cursor: context-menu;
     width: 55%;
 }
+
+.keyboard button {
+    display: inline-block;
+    position: relative;
+    transition: all .2s;
+    top: 0;
+}
+
+.keyboard button:active {
+    top: 3px;
+    transition: all .2s;
+}
+
